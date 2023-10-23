@@ -1,0 +1,8 @@
+(fp_lib_table
+  (lib (name "Symbols")(type "KiCad")(uri "${KIPRJMOD}/Symbols")(options "")(descr ""))
+  (lib (name "Footprints")(type "KiCad")(uri "${KIPRJMOD}/Footprints")(options "")(descr ""))
+  (lib (name "TPS61175")(type "KiCad")(uri "${KIPRJMOD}/TPS61175.pretty")(options "")(descr ""))
+  (lib (name "Gen 3 Leaf Adapter")(type "KiCad")(uri "C:/Users/jerem.LAPTOP-KNQBLB52/Desktop/Personal Projects/Open Inverter/Nissan Gen3 Inverter/Gen 3 Leaf Adapter")(options "")(descr ""))
+  (lib (name "Nissan Internal Inverter Connectors")(type "KiCad")(uri "${KIPRJMOD}/Nissan Internal Inverter Connectors.pretty")(options "")(descr ""))
+  (lib (name "JLCPCB")(type "KiCad")(uri "${KICAD_LIB}/JLCPCB/JLCPCB.pretty")(options "")(descr ""))
+)
