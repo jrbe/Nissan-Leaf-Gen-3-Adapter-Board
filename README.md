@@ -11,3 +11,4 @@ The development thread is here, https://openinverter.org/forum/viewtopic.php?t=2
 
 ![Front PCB w- SMD](https://github.com/jrbe/Nissan-Leaf-Gen-3-Adapter-Board/assets/6788692/670f7151-96ce-4a4e-9822-df4c957f953b)
 
+![PCB back](https://github.com/jrbe/Nissan-Leaf-Gen-3-Adapter-Board/assets/6788692/c88b6ea1-f61c-4f6a-92eb-22e095f18cab)
