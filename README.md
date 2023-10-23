@@ -5,7 +5,9 @@ This is a work in progress to control the Gen 3 Nissan Leaf inverter with an Ope
 
 The Wiki for this board is here, https://openinverter.org/wiki/Nissan_Leaf_Gen_3_(2018_up_EM57)
 
-The development thread is here, https://openinverter.org/forum/viewtopic.php?t=2324
+The original development thread is here, https://openinverter.org/forum/viewtopic.php?t=2324  Please do not post questions here.
+
+If you have questions please check the Wiki first.  If your question is not answered there please post questions, comments, ideas, etc. in this thread, https://openinverter.org/forum/viewtopic.php?t=4276
 
 ![Front PCB Assembly](https://github.com/jrbe/Nissan-Leaf-Gen-3-Adapter-Board/assets/6788692/7482abab-a6f9-4289-9831-432955c62e58)
 
