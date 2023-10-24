@@ -1,0 +1,16 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 2cdeffd1-9438-469a-8193-5ea9b785a511)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (text "V0.0.1 - Removed 10k resistor between SJ5 and SIG_EMCYSTOP.  Would have prevented ESTOP signal from going high with mini mainboard resistor divider circuit. \n         Corrected mini mainboard symbol voltage on throttle input to 0-6.6v (V2 bottom right corner,) also corrected in notes."
+    (at 15.24 19.05 0)
+    (effects (font (size 1.75 1.75)) (justify left bottom))
+    (uuid 8e8ad86a-c8de-463a-b560-ee19c64bd6d7)
+  )
+)

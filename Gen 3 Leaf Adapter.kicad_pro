@@ -425,7 +425,6 @@
           "DCSW",
           "EXT_OUT_BRAKE",
           "MISO",
-          "Net-(J2-Pad40)",
           "OUT_DCSW",
           "OUT_ERR",
           "OUT_OUVTG",
@@ -508,6 +507,10 @@
     [
       "b296dfcd-1743-4ad9-805f-3bbf8c3db701",
       ""
+    ],
+    [
+      "a0459ab7-2e7d-4701-b75f-648acc71baed",
+      "Revisions"
     ]
   ],
   "text_variables": {}
