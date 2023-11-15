@@ -4,13 +4,17 @@
 
   (paper "A4")
 
+  (title_block
+    (rev "V0.0.3")
+  )
+
   (lib_symbols
   )
 
 
-  (text "V0.0.1 - Removed 10k resistor between SJ5 and SIG_EMCYSTOP.  Would have prevented ESTOP signal from going high with mini mainboard resistor divider circuit. \n         Corrected mini mainboard symbol voltage on throttle input to 0-6.6v (V2 bottom right corner,) also corrected in notes."
-    (at 15.24 19.05 0)
-    (effects (font (size 1.75 1.75)) (justify left bottom))
+  (text "V0.0.2 - Removed 10k resistor between SJ5 and SIG_EMCYSTOP.  Would have prevented ESTOP signal from going high with mini mainboard resistor divider circuit. \n         Corrected mini mainboard symbol voltage on throttle input to 0-6.6v (V2 bottom right corner,) also corrected in notes.\n\nV0.0.3 - L2 was (C1046) a 10uH 0805 but only 15ma.  Changed to a Sunlord 4030 / 4.0mmx4.0mm inductor footprint."
+    (at 15.24 26.67 0)
+    (effects (font (size 2 2) (thickness 0.4) bold) (justify left bottom))
     (uuid 8e8ad86a-c8de-463a-b560-ee19c64bd6d7)
   )
 )
