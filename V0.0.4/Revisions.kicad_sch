@@ -1,0 +1,27 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 2cdeffd1-9438-469a-8193-5ea9b785a511)
+
+  (paper "A4")
+
+  (title_block
+    (title "Gen 3 Nissan Leaf Mini Mainboard Adapter")
+    (date "2024-03-29")
+    (rev "V0.0.4")
+  )
+
+  (lib_symbols
+  )
+
+
+  (text "V0.0.2 - Removed 10k resistor between SJ5 and SIG_EMCYSTOP.  Would have prevented ESTOP signal from going high with mini mainboard resistor divider circuit. \n         Corrected mini mainboard symbol voltage on throttle input to 0-6.6v (V2 bottom right corner,) also corrected in notes.\n\nV0.0.3 - L2 was (C1046) a 10uH 0805 but only 15ma.  Changed to a Sunlord 4030 / 4.0mmx4.0mm inductor footprint."
+    (at 15.24 26.67 0)
+    (effects (font (size 2 2) (thickness 0.4) bold) (justify left bottom))
+    (uuid 8e8ad86a-c8de-463a-b560-ee19c64bd6d7)
+  )
+  (text "V0.0.4 changes:\n\n- Changed brake output / board address to Johu's tested circuit. Removed D12 & R1 from V0.0.3.\n- moved vias away from 5v connector pads to help ease soldering.\n- changed r13 from 3k3 to 1k2 to fit voltage range better for temp sensor.\n- added a solder jumper on back from pin 26 to +12v for E-STOP if desired.\n- R12 is a 4.7Ohm instead of 4.7K spec'd. Removed it & R5 per conversation w/ johu.\n- STM32 boot issue - C13 was 1uF & R25 was 10k, the esp32 recommended boot delay values. Caused boot\n  issues with the STM32. Swapped back to the 4k7 & .1uF boot delay setup\n  used in the tesla V6 & V8 boards.\n- Set a bunch of DNP items to DNP so we won't have to deselect components when ordering. C3, C4, etc.\n- R3 & R9 were current sensor secondary signal trace resistor jumpers.  Changed to solder jumpers for\n  redundant trace enable option.\n- Mounting holes corrected to 114mm x 90mm.\n- R2 & R4 0R jumpers were removed and connected to ground (verified they are current sensor grounds.)\n- J1 pos. 20 was connected to gnd on back of board.\n- Added 3.3v to pos9 of the 40 pos. Nissan connector as an alternative throttle voltage if needed.\n- Added a jumper to +12v on the back of the board to supply +12v to pin 26 if the jumper is soldered.\n\n\n"
+    (at 15.24 96.52 0)
+    (effects (font (size 2 2) (thickness 0.254) bold) (justify left bottom))
+    (uuid cf6bcdef-8a95-4249-a393-55f19e2b68d3)
+  )
+)

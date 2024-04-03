@@ -1,6 +1,0 @@
-(sym_lib_table
-  (lib (name "Gen-3-Leaf-Adapter-rescue")(type "Legacy")(uri "${KIPRJMOD}/Gen 3 Leaf Adapter-rescue.lib")(options "")(descr ""))
-  (lib (name "TPS61175PWPR")(type "KiCad")(uri "${KIPRJMOD}/TPS61175PWPR.kicad_sym")(options "")(descr ""))
-  (lib (name "TPS61175")(type "Legacy")(uri "${KIPRJMOD}/TPS61175.lib")(options "")(descr ""))
-  (lib (name "776228-1")(type "Legacy")(uri "${KIPRJMOD}/776228-1.lib")(options "")(descr ""))
-)
