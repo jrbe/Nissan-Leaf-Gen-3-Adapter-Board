@@ -8,6 +8,7 @@ The Wiki for this board is here, https://openinverter.org/wiki/Nissan_Leaf_Gen_3
 The original development thread is here, https://openinverter.org/forum/viewtopic.php?t=2324  Please do not post questions here.
 
 If you have questions please check the Wiki first.  If your question is not answered there please post questions, comments, ideas, etc. in this thread, https://openinverter.org/forum/viewtopic.php?t=4276
+
 ![Front PCB w- SMD](https://github.com/jrbe/Nissan-Leaf-Gen-3-Adapter-Board/assets/6788692/2b5dec66-37aa-404f-b1e8-244b5429cfdc)
 
 
