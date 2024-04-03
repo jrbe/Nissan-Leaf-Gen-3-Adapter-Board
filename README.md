@@ -1,9 +1,7 @@
 # Nissan-Leaf-Gen-3-Adapter-Board
-Open Inverter Mini Mainboard adapter PC board for a Gen. 3 Nissan Leaf inverter. Designed in Kicad 6.
+Open Inverter Mini Mainboard adapter PC board for a Gen. 3 Nissan Leaf inverter. Designed in Kicad 7.
 
-**Currently working on V0.0.4, I'd suggest waiting for this new version as a few errors will prevent this from working properly.**
-
-This is a work in progress to control the Gen 3 Nissan Leaf inverter with an Open Inverter Mini Mainboard.  There are a few unknowns still at the time of writing this that are all covered in the Wiki.
+This is a work in progress to control the Gen 3 Nissan Leaf inverter with an Open Inverter Mini Mainboard.
 
 The Wiki for this board is here, https://openinverter.org/wiki/Nissan_Leaf_Gen_3_(2018_up_EM57)
 
