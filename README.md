@@ -7,7 +7,7 @@ The Wiki for this board is here, https://openinverter.org/wiki/Nissan_Leaf_Gen_3
 
 There are many options built into this board. Multi-footprints for the 2 main connectors for SMD and through hole options, E-stop bypass or use, auxiliary outputs with different voltages, etc. See the wiki above for details.
 
-If you have questions please check the Wiki first.  If your question is not answered there please post questions, comments, ideas, etc. in this thread, https://openinverter.org/forum/viewtopic.php?t=4276
+If you have questions please check the Wiki first.  If your question is not answered there please post questions, comments, ideas, etc. in this thread, https://openinverter.org/forum/viewtopic.php?t=4565
 
 ![Front PCB w- SMD](https://github.com/jrbe/Nissan-Leaf-Gen-3-Adapter-Board/assets/6788692/2b5dec66-37aa-404f-b1e8-244b5429cfdc)
 
